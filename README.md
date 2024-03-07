@@ -1,4 +1,4 @@
-### Welcome 👋, I'm Leo.  
+## Welcome 👋, I'm Leo.  
 
 I'm Yu-Sheng Hung, a beginner in backend development. I recently completed my [first project.](https://leo145x.com)
 
