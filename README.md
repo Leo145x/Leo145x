@@ -4,7 +4,7 @@ I'm Yu-Sheng Hung, a beginner in backend development. I recently completed my [f
 
 ### About me  
 * 🏠 I'm living in Taoyuan.
-* 📖 I'm currently studying Master degree that is On-the-Job Training Program. So I'm also looking for job opportunities at the same time.
+* 📖 I'm currently pursuing a master's degree through an On-the-Job Training Program, and I am also seeking job opportunities simultaneously.
 * :e-mail: How to reach me : tony0960343@gmail.com
 * :pencil: My experiences : [resume](https://drive.google.com/file/d/1yhP86gP06FC0JAX35XKIDKvAcQAw4z18/view?usp=sharing)
 <!--
