@@ -2,9 +2,11 @@
 
 I'm Yu-Sheng Hung, a beginner in backend development. I recently completed my [first project.](https://leo145x.com)
 
-### About me
-* I'm currently study Master degree that is On-the-Job Training Program.
-* 
+### About me  
+* 🏠 I'm living in Taoyuan.
+* 📖 I'm currently studying Master degree that is On-the-Job Training Program. So I'm also looking for job opportunities at the same time.
+* :e-mail: How to reach me : tony0960343@gmail.com
+* :pencil: My experiences : [resume](https://drive.google.com/file/d/1yhP86gP06FC0JAX35XKIDKvAcQAw4z18/view?usp=sharing)
 <!--
 **Leo145x/Leo145x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,33 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-                alt="aws" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
-            rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                alt="docker" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-                height="40" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-                height="40" /> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-                height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank"
-            rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-                alt="nginx" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-                width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> </p>
+<h3 align="left">Languages and Tools</h3>  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,aws,gcp,mysql,nginx,docker,flask,ubuntu,git)](https://skillicons.dev)   
+
+### Language status
+
+[![Leo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo145x&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
