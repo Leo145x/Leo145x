@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Languages and Tools</h3>  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,aws,gcp,mysql,nginx,docker,flask,ubuntu,git)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,aws,gcp,mysql,nginx,docker,flask,ubuntu,git,postman,figma)](https://skillicons.dev)   
 
 ### Language status
 
