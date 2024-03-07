@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,aws,gcp,mysql,nginx,docker,flask,ubuntu,git,postman,figma)](https://skillicons.dev)   
 
-### Language status
-
 [![Leo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo145x&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
