@@ -1,6 +1,7 @@
 ## Welcome 👋, I'm Leo.  
 
-I'm Yu-Sheng Hung, a beginner in backend development. I recently completed my [first project.](https://leo145x.com)
+I'm Yu-Sheng Hung, a beginner in backend development.  
+I recently completed my [first project](https://leo145x.com). For details about project, see the [ITD Introduction](https://hackmd.io/@Leo145x/ITD).
 
 ### About me  
 * 🏠 I'm living in Taoyuan.
