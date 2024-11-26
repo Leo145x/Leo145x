@@ -1,13 +1,13 @@
 ## Welcome 👋, I'm Leo.  
 
 I'm Yu-Sheng Hung, a beginner in backend development.  
-I recently completed my [first project](https://leo145x.com). For details about project, see the [project introduction](https://hackmd.io/@Leo145x/ITD).
+I recently completed my first project. For details about project, see the [project introduction](https://hackmd.io/@Leo145x/ITD).
 
 ### About me  
 * 🏠 I'm living in Taoyuan.
 * 📖 I'm currently pursuing a master's degree through an On-the-Job Training Program, and I am also seeking job opportunities simultaneously.
 * :e-mail: How to reach me : tony0960343@gmail.com
-* :pencil: My experiences : [resume](https://drive.google.com/file/d/1EqKn-bpWNs70poUasr4T4OluPydhqT8X/view?usp=sharing)
+* :pencil: My experiences : [resume](https://drive.google.com/file/d/190_F1DMow2k7Zl0cIvB03HcPbCdxNaK-/view?usp=sharing)
 <!--
 **Leo145x/Leo145x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
